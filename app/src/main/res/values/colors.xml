@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="modern_primary">#1B3B6F</color>
+    <color name="modern_primary_dark">#0A2447</color>
+    <color name="modern_accent">#00BCD4</color>
+    <color name="modern_accent_dark">#0097A7</color>
+    <color name="blue_200">#3A4A75</color>    <!-- Medium dark blue -->
+    <color name="blue_500">#1A237E</color>    <!-- Dark blue -->
+    <color name="blue_700">#0D1333</color>    <!-- Really dark blue -->
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

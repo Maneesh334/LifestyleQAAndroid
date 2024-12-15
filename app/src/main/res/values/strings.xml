@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_height_in_centimeters">Enter your height in centimeters</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="enter_your_weight_in_kilograms">Enter your weight in kilograms</string>
+    <string name="weight_kgs">Weight (kg)</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="abc">abc</string>
+    <string name="abd">abd</string>
+    <string name="abe">180</string>
+    <string name="abf">0</string>
+    <string name="abg" />
+    <string name="abh" />
+</resources>
